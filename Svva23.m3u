@@ -6,7 +6,7 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/pla
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ERT2.png",ERT2 HD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ERT3.png",ERT3 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist.m3u8
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="vouli" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Vouli.png",ΒΟΥΛΗTV
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERTnews.png",ERT NEWS
@@ -50,7 +50,7 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/138727.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERT2.png",ERT2
 https://cdn.nclr.eu/hls/ert2gr_src.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERT2.png",ERT2
-http://sansat.net:25461/live/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100179.ts
+https://cdn.nclr.eu/hls/ert1gr.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERT3.png",ERT3
 https://cdn.nclr.eu/hls/ert3gr.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ALPHA.png",ALPHA 
