@@ -117,7 +117,7 @@ http://clientportal.link:80/live/Emiliom/GbEFCh139/19576.ts
 #EXTINF:-1 group-title="CINEMA" tvg-name="cosmote_cinema_3" tvg-logo="https://i.imgur.com/3Bfqcxf.png",OTEmarathonHD
 http://clientportal.link:80/live/Emiliom/GbEFCh139/125009.ts
 #EXTINF:-1 group-title="CINEMA" tvg-name="NoEPG" tvg-logo="https://i.imgur.com/wy76SAP.png",VillageHD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/125008.ts
+http://141.95.157.157:8081/VILTENNIS/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport1
 http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/116213.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/f56dHgR.png",Eurosport2
