@@ -68,8 +68,6 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/main
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/playlist.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTSports4.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/ERTSPORTS4.png",ERT SPORTS 4
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="BBCEarth" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/10/BBC_EARTH_NP_WHT_L.png",BBCearthHD
-http://149.62.183.194:9293/play/a0ed
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smile" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV GR
@@ -114,6 +112,8 @@ http://clientportal.link:80/live/Emiliom/GbEFCh139/99319.ts
 http://clientportal.link:80/live/Emiliom/GbEFCh139/1993.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="bbcearth.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/512px-BBC_Lifestyle2.svg.png",BBC LifeStyle
 http://clientportal.link:80/live/Emiliom/GbEFCh139/23318.ts
+#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="BBCEarth" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/10/BBC_EARTH_NP_WHT_L.png",BBCearthHD
+http://149.62.183.194:9293/play/a0ed
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="bbcearth.gr3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png",BBCparliament
 http://clientportal.link:80/live/Emiliom/GbEFCh139/14681.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",itv1HD
@@ -147,20 +147,8 @@ http://clientportal.link:80/live/Emiliom/GbEFCh139/1662.ts
 http://clientportal.link:80/live/Emiliom/GbEFCh139/14206.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",Rai 3
 http://clientportal.link:80/live/Emiliom/GbEFCh139/1664.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png",Rai 4
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14204.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1280px-Rai_5_-_Logo_2017.svg.png",Rai 5
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14203.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiMovie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1920px-Rai_Movie_-_Logo_2017.svg.png",Rai Movie
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14100.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiPr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1024px-Rai_Premium_-_Logo_2017.svg.png",Rai Premium
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14098.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiPr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1920px-Rai_Gulp_-_Logo_2017.svg.png",Rai Gulp
-http://clientportal.link:80/live/Emiliom/GbEFCh139/23932.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiPr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/1200px-Rai_Sport_-_Logo_2022.svg.png",Rai Sport
 http://clientportal.link:80/live/Emiliom/GbEFCh139/14202.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/2560px-Rai_4K_-_Logo_2017.svg.png",Rai 4K
-http://clientportal.link:80/live/Emiliom/GbEFCh139/24698.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png",Abc news
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/1JnyzHv.png",FOXnews
@@ -169,12 +157,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 http://clientportal.link:80/live/Emiliom/GbEFCh139/10806.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F888%2Fvtm-2-hd-1.png",vtm2
 http://clientportal.link:80/live/Emiliom/GbEFCh139/56831.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d4/VTM_3_%282020-.n.v.%29.png",vtm3
-http://clientportal.link:80/live/Emiliom/GbEFCh139/56847.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/VTM_4_%282020-.n.v.%29.png",vtm4
-http://clientportal.link:80/live/Emiliom/GbEFCh139/56848.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/02/VTM_Gold_%282021-.n.v.%29.png",vtmgold
-http://clientportal.link:80/live/Emiliom/GbEFCh139/88255.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png",Abc news
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/1JnyzHv.png",FOXnews
@@ -217,16 +199,10 @@ http://radiostreaming.ert.gr/ert-erasport
 http://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era5radio.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/6/6b/KOSMOS.svg/200px-KOSMOS.svg.png",ERA 5 KOSMOS
 http://radiostreaming.ert.gr/ert-kosmos
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era5radio.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/6/6b/KOSMOS.svg/200px-KOSMOS.svg.png",ERA 5 KOSMOS LIVE
-https://streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S72237690/nyOQH8BR5M8Y/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era6radio.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/e/e0/KOSMOS_JAZZ.svg/119px-KOSMOS_JAZZ.svg.png",ERA KOSMOS JAZZ
 http://radiostreaming.ert.gr/ert-webjazz
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era6radio.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/e/e0/KOSMOS_JAZZ.svg/119px-KOSMOS_JAZZ.svg.png",ERA KOSMOS JAZZ LIVE
-https://streamcdnh20-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S58113226/z8D5fdAYcXqo/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era7radio.gr" tvg-logo="https://cache.usercontentapp.com/logo/137867.png?format=png&enlarge=0&quality=90&width=960",ERA ZEPPELIN
 https://radiostreaming.ert.gr/ert-zeppelin
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era7radio.gr" tvg-logo="https://cache.usercontentapp.com/logo/137867.png?format=png&enlarge=0&quality=90&width=960",ERA ZEPPELIN LIVE
-https://streamcdnh16-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S52935822/9xsxAgAMT69z/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era8radio.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/1/17/DEYTERO_LAIKA.svg/2560px-DEYTERO_LAIKA.svg.png",ERA 2 (DEFTERO) LAIKA
 http://radiostreaming.ert.gr/ert-talaika
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era8radio.gr" tvg-logo="https://files2.app.ertflix.gr/radios/3omaestro-800x300.png?m=resize&w=200&h=80",ERA MAESTRO
