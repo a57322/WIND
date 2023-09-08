@@ -134,7 +134,6 @@ http://clientportal.link:80/live/Emiliom/GbEFCh139/14701.ts
 http://clientportal.link:80/live/Emiliom/GbEFCh139/12348.ts
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/1200px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="News",Channel4HD
 http://clientportal.link:80/live/Emiliom/GbEFCh139/14890.ts
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/1200px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="News",Channel4
 http://clientportal.link:80/live/Emiliom/GbEFCh139/14888.ts#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="SBCnews.de" tvg-logo="https://cpng.pikpng.com/pngl/s/365-3653638_as-seen-heard-and-read-in-cbs-news.png" group-title="News",CBS NEWS
