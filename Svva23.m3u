@@ -184,6 +184,8 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OMEGA-CYPRUS.jpg",OMEGA CY
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capital" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/CAPITAL-CYPRUS.png",CAPITAL CY
+http://webo.asia:80/live/Jason123/Jason123/700263.ts
 #EXTINF:5960 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://trttv.gr/wp-content/uploads/2019/04/TRT_LOGO.png",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.trt/playlist.m3u8
 #EXTINF:7205 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://syrostv1.gr/wp-content/uploads/2021/12/site_logo-1.png",SYROS TV1
