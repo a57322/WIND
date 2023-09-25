@@ -94,23 +94,23 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5MondeInfo.fr" tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png",TV5MONDEinfo
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertworld-logo-800x300-f.png",ERT WORLD HD
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-12.jpg",ERT WORLD HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertworld-logo-800x300-f.png",ERT WORLD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100220.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png",STAR INTERNATIONAL HD
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-12.jpg",ERT WORLD
+http://webo.asia:80/live/Jason123/Jason123/614883.ts
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-9.jpg",STAR INT HD
 http://webo.asia:80/live/Jason123/Jason123/614886.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Megacosmos.svg/1200px-Megacosmos.svg.png",MEGA cosmos
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-7.jpg",MEGA cosmos
 http://webo.asia:80/live/Jason123/Jason123/614881.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo-copy-white.png",ALPHA SAT HD
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-5.jpg",ALPHA SAT HD
 http://webo.asia:80/live/Jason123/Jason123/614867.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://www.alphatvsat.com/wp-content/uploads/2018/03/Alpha_Sat_logo-copy-white.png",ALPHA SAT
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-6.jpg",ALPHA SAT
 http://webo.asia:80/live/Jason123/Jason123/614885.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://www.antennasatellite.gr/media/upload-files/cache/d2b/d2be7f80f4c55b9b54eac379e4978087_satellitelogo-1.jpg",ANT1 Satellite
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-8.jpg",ANT1 Satellite
 http://webo.asia:80/live/Jason123/Jason123/607081.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/phlmv41603021800.png",SPORTplus
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-11.jpg",SPORTplus
 http://webo.asia:80/live/Jason123/Jason123/614871.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/phlmv41603021800.png",GREECEcinema
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-10.jpg",GREEKcinema
 http://webo.asia:80/live/Jason123/Jason123/614884.ts
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
