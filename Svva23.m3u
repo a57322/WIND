@@ -15,13 +15,13 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/9984.ts
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ANT1.png",ANT1 HD
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/maktvHD.png",MAK TV HD
-http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_1.m3u8
+http://live.kodicologne.co:8080/live/starking/amk66dexs/269741.m3u8
 #EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/STAR.png",STAR HD
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/286507.ts
+http://esuniptvstream.com:25461/live/zYvjhSJgZxjX5JR/ONRP0dbgqduozt1/100191.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/SKAI.png",SKAI HD
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/9954.ts
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OPEN.png",OPEN HD
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/100184.ts
+http://live.kodicologne.co:8080/live/starking/amk66dexs/269737.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/action24.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="atticatv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ATTICA.png",ATTICA TV
@@ -86,16 +86,10 @@ http://webo.asia:80/live/Jason123/Jason123/607081.ts
 http://webo.asia:80/live/Jason123/Jason123/614871.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-10.jpg",GREEKcinema
 http://webo.asia:80/live/Jason123/Jason123/614884.ts
-#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTSports4.gr" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/discovery-2.png",DiscoveryHD
-http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/9976.ts
-#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTSports4.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",DiscoveryScience
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/100253.ts
-#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTSports4.gr" tvg-logo="https://www.cosmotetv.gr/portal/documents/148154061/148154071/41707931/c3640f09-bd02-65f9-2433-2fec72b6bd2c?version=1.0&t=1680276406535.png",Cosmote Cinema 3
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/100239.ts
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://marcaspelomundo.com.br/wp-content/uploads/2021/11/Cartoonito-Logo-02.png",CartoonitoHD
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/286516.ts
+http://esuniptvstream.com:25461/live/zYvjhSJgZxjX5JR/ONRP0dbgqduozt1/286516.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ΝΑΥΤΕΜΠΟΡΙΚΗ.png",NAFTEMPORIKΙ TV
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="BulgariaOnAir.bg" tvg-logo="https://i.imgur.com/2ASwXZZ.png",BulgariaOnAir
