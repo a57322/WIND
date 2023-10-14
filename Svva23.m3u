@@ -43,11 +43,11 @@ http://clientportal.link:80/live/Emiliom/GbEFCh139/9967.ts
 #EXTINF:5965 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PanikTV"tvg-logo="https://radioproto.gr/wp-content/uploads/2021/09/a3d9d5bd-2607-bc0f-559b-50c8fea4e526.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERT1.png",ERT1
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/100177.ts
+http://176.65.146.177:8045/play/a06j
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERT2.png",ERT2
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/2566.ts
+http://176.65.146.177:8045/play/a06x
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERT3.png",ERT3
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/100180.ts
+http://176.65.146.177:8045/play/a06y
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ALPHA.png",ALPHA 
 https://cdn.nclr.eu/hls/AlphaSD_src.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ANT1GR.png",ANT1 
@@ -62,6 +62,20 @@ https://cdn.nclr.eu/hls/SkaiSD_src.m3u8
 https://cdn.nclr.eu/hls/StarSD_src.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Open-Beyond.png",OPEN ΒΕΥΟΝD
 https://cdn.nclr.eu/hls/EpsilonSD_src.m3u8
+#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ALPHA.png",ALPHA 
+http://176.65.146.177:8045/play/a06n
+#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ANT1GR.png",ANT1 
+http://176.65.146.177:8045/play/a06p
+#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/maktv.png",MAKTV
+http://176.65.146.177:8045/play/a06t
+#EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Σχέδιο-χωρίς-τίτλο-7.png",MEGA 
+http://176.65.146.177:8045/play/a06s
+#EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Skai.png",SKAI
+http://176.65.146.177:8045/play/a06o
+#EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Star-Channel.png",STAR
+http://176.65.146.177:8045/play/a06r
+#EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Open-Beyond.png",OPEN ΒΕΥΟΝD
+http://176.65.146.177:8045/play/a06q
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="EuroNews" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/EURONEWS.png",euronews.
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/34754.ts
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertsports" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/ERTSPORTS1.png",ERT SPORTS 1
