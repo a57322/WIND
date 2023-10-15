@@ -87,7 +87,7 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/maina
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTSports4.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/ERTSPORTS4.png",ERT SPORTS 4
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/playlist.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_HD_since_2015.svg/2560px-Eurosport_HD_since_2015.svg.png",EUROSPORT 1 HD
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/116213.ts
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/116213.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eurosport_2_HD_Logo_2015.svg/2560px-Eurosport_2_HD_Logo_2015.svg.png",EUROSPORT 2 HD
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/64967.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-12.jpg",ERT WORLD HD
@@ -97,7 +97,7 @@ http://webo.asia:80/live/Jason123/Jason123/614881.ts
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://marcaspelomundo.com.br/wp-content/uploads/2021/11/Cartoonito-Logo-02.png",CartoonitoHD
-http://sansat.net:25461/live/SXYVVGFN1AZE0HC/93CJC3ZAJXC3QKZ/286516.ts
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/286516.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ΝΑΥΤΕΜΠΟΡΙΚΗ.png",NAFTEMPORIKΙ TV
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="BulgariaOnAir.bg" tvg-logo="https://i.imgur.com/2ASwXZZ.png",BulgariaOnAir
