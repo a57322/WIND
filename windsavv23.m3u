@@ -141,6 +141,8 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/88332.ts
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/88330.ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="NoEpg" tvg-logo="https://i.imgur.com/io77AJM.png",novasportsNews
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/88331.ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="NoEpg" tvg-logo="https://i.imgur.com/aOPBuEa.png",novasportsPremierLeague
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/286526.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="cosmote_sport_1" tvg-logo="https://i.imgur.com/fn0TM6V.png",OTEsport1HD
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/18240.ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="cosmote_sport_2" tvg-logo="https://i.imgur.com/1RSyE5N.png",OTEsport2HD
@@ -170,51 +172,41 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/74989.ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/512px-Sky_Sport_Action.svg.png",SkySportsAction
 http://clientportal.link:80/live/Emiliom/GbEFCh139/108339.ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="NoEPG" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134.png",Nautical Channel
-http://clientportal.link:80/live/Emiliom/GbEFCh139/125953.ts
+http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/125953.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="BBCEarth" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/10/BBC_EARTH_NP_WHT_L.png",BBCearthHD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/18330.ts
-#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="MyZenTV" tvg-logo="https://production.content.okast.tv/606cb96a-cce3-4dad-a95f-a25a38aaba91/storefront_projects/dfc88d65-4460-415f-806e-66812ff2117c/favicon.4286FE918204C51D4BCCD4EF3E44A62A7A453CFDDBD9093E424CAFBF3137E475.en.png",MyZenTVHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/286517.m3u8
+http://clientportal.link:80/live/Emiliom/GbEFCh139/18330.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="NationalGeographicChannel" tvg-logo="https://www.jordonfreight.com/wp-content/uploads/2020/09/euronews-thumb.png",NATgeoHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100249.m3u8
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/100249.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="NatGeoWild" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/4318a99db0e8f07add141fd32943641c/284x160-Q75_4318a99db0e8f07add141fd32943641c.png",NATgeoWildHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100250.m3u8
+http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/26825.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="DiscoveryScience" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/bf0cb682-cadd-47bf-9820-87d94992ab32/Discovery+Science+Asia.png",DiscoveryScience
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100253.m3u8
+http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/1602.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png",TravelChannel
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/286521.m3u8
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/286521.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="InvestigationDiscovery" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Discovery_HD_%282019%29.svg/revision/latest?cb=20221106011521.png",DiscoveryHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100251.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",DiscoveryID
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/286520.m3u8
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/100251.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="ViasatHistory" tvg-logo="https://i.imgur.com/wRP9XA7.png",VIASAT HISTORY
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100263.m3u8
+http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/87523.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="ViasatNature" tvg-logo="https://i.imgur.com/ousRqqD.png",VIASAT NATURE
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100264.m3u8
+http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/87524.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="ViasatExplore" tvg-logo="https://i.imgur.com/DyT5pKB.png",VIASAT EXPLORE
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100262.m3u8
+http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/87522.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="Noepg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",FoodNetHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100277.m3u8s
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/100277.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="EEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png",E! EntertainmentHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/286523.m3u8
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/286523.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-name="AnimalPlanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",AnimalPlanetHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/286518.m3u8
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/286518.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="https://www.iptvsat.gr/wp-content/uploads/2022/12/Logo-Epic-Drama_web.png" tvg-name="Epicdrama.gr" ,Epic Drama
 http://185.6.22.6:8000/play/a03e
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smile" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV GR
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100228.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="EuroNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",NickelodeonGR
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100223.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",BoomerangHD
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/286516.m3u8
+
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",Disney Channel
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100225.m3u8
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/100225.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png",Disney Junior
-http://p1.proiptv.co:88/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100226.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV
-http://clientportal.link:80/live/Emiliom/GbEFCh139/19621.ts
+http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/100226.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ΝΑΥΤΕΜΠΟΡΙΚΗ.png",NAFTEMPORIKΙ TV
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="BulgariaOnAir.bg" tvg-logo="https://i.imgur.com/2ASwXZZ.png",BulgariaOnAir
@@ -241,81 +233,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBCAmericaEast.usr" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/BBC-America-logo.png",BBC AMERICA
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBConeHD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/1994.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1920px-BBC_Two_logo_2021.svg.png",BBCtwoHD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/12347.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1200px-BBC_Three_2022.svg.png",BBCthreeHD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/99319.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/1920px-BBC_Four_logo_2021.svg.png",BBCfourHD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/1993.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="bbcearth.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/512px-BBC_Lifestyle2.svg.png",BBC LifeStyle
-http://clientportal.link:80/live/Emiliom/GbEFCh139/23318.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="bbcearth.gr3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png",BBCparliament
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14681.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",itv1HD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/1995.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",itv2HD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/18899.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png",itv3
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14738.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="NoEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/768px-ITV4_logo_%282022%29.svg.png",itv4FHD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/12346.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="EuroNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRTturk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png" group-title="News",BBC World News HD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/28214.ts
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_News_logo.svg/1280px-BBC_News_logo.svg.png" group-title="News",BBC News HD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14701.ts
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1920px-CBBC_%282023%29.svg.png" group-title="News",CBBC
-http://clientportal.link:80/live/Emiliom/GbEFCh139/12348.ts
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/1200px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="News",Channel4HD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14890.ts
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/1200px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="News",Channel4
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14888.ts#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="News",DW English
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="SBCnews.de" tvg-logo="https://cpng.pikpng.com/pngl/s/365-3653638_as-seen-heard-and-read-in-cbs-news.png" group-title="News",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai News24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/2560px-Rai_News_24_-_Logo_2013.svg.png",Rai News24
-http://clientportal.link:80/live/Emiliom/GbEFCh139/8996.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1 HD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/1662.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",Rai 2 HD
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14206.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",Rai 3
-http://clientportal.link:80/live/Emiliom/GbEFCh139/1664.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png",Rai 4
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14204.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1280px-Rai_5_-_Logo_2017.svg.png",Rai 5
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14203.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiMovie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1920px-Rai_Movie_-_Logo_2017.svg.png",Rai Movie
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14100.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiPr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1024px-Rai_Premium_-_Logo_2017.svg.png",Rai Premium
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14098.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiPr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1920px-Rai_Gulp_-_Logo_2017.svg.png",Rai Gulp
-http://clientportal.link:80/live/Emiliom/GbEFCh139/23932.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="RaiPr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/1200px-Rai_Sport_-_Logo_2022.svg.png",Rai Sport
-http://clientportal.link:80/live/Emiliom/GbEFCh139/14202.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Rai4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/2560px-Rai_4K_-_Logo_2017.svg.png",Rai 4K
-http://clientportal.link:80/live/Emiliom/GbEFCh139/24698.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png",Abc news
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/1JnyzHv.png",FOXnews
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/VTM_2020.svg/1200px-VTM_2020.svg.png",vtm
-http://clientportal.link:80/live/Emiliom/GbEFCh139/10806.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F888%2Fvtm-2-hd-1.png",vtm2
-http://clientportal.link:80/live/Emiliom/GbEFCh139/56831.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d4/VTM_3_%282020-.n.v.%29.png",vtm3
-http://clientportal.link:80/live/Emiliom/GbEFCh139/56847.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/VTM_4_%282020-.n.v.%29.png",vtm4
-http://clientportal.link:80/live/Emiliom/GbEFCh139/56848.ts
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/02/VTM_Gold_%282021-.n.v.%29.png",vtmgold
-http://clientportal.link:80/live/Emiliom/GbEFCh139/88255.ts
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png",Abc news
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/1JnyzHv.png",FOXnews
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli1" tvg-logo="https://upload.wikimedia.org/wikipedia/el/1/17/Parliament-Television_of_Greece.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/RIKSAT-CYPRUS.png",RIK SAT CY
