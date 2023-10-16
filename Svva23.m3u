@@ -108,13 +108,13 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/130089.m3u8
 http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/554397.m3u8
 #EXTINF:0 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="madtv"  tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/MAD.png",MAD TV
 http://clientportal.link:80/live/Emiliom/GbEFCh139/9967.m3u8
-#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
+#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/3943.m3u8
-#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png",MTV 80s
+#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png",MTV 80s
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/17388.m3u8
-#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png",MTV LIVE
+#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png",MTV LIVE
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/28235.m3u8
-#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg",MTV HITS
+#EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg",MTV HITS
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/7317.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://www.cosmotetv.gr/portal/documents/148154061/148163657/147232720/3efb2c4f-d124-8c22-b26d-e3d5443e703b?version=1.0&t=1680276188525.png",MEZZOlive
 http://vo01.mohdtv.com:8880/live/ALLChannels487E48E5D049/10778471/31212.m3u8
@@ -134,10 +134,14 @@ http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/554398.m3u8
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/17427.m3u8
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV CY
 https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/555670.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://marcaspelomundo.com.br/wp-content/uploads/2021/11/Cartoonito-Logo-02.png",CartoonitoHD
 http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/286516.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ΝΑΥΤΕΜΠΟΡΙΚΗ.png",NAFTEMPORIKΙ TV
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ΝΑΥΤΕΜΠΟΡΙΚΗ.png",BBC WORLD
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/554231.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg",CNBC
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/9028.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="BulgariaOnAir.bg" tvg-logo="https://i.imgur.com/2ASwXZZ.png",BulgariaOnAir
