@@ -116,6 +116,12 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/7317.m3u8
 http://vo01.mohdtv.com:8880/live/ALLChannels487E48E5D049/10778471/31212.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-12.jpg",ERT WORLD HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-6.jpg",ALPHA SAT
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/942248.m3u8
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-7.jpg",MEGA COSMOS
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/1060885.m3u8
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-11.jpg",SPORT PLUS
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/942251.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/800px-The_Weather_Channel_logo_2005-present.svg.png",THE WEATHER CHANNEL
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/17427.m3u8
 #EXTINF:988 group-title="ΠΑΙΔΙΚΑ" tvg-name="smiletvcy" tvg-logo="https://listenradio.gr/wp-content/uploads/2022/04/cropped-SMILE-LOGO-XROMATISTO-1536x332-1.png",SMILE TV CY
@@ -163,9 +169,19 @@ https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ANT1-CYPRUS.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ALPHA-CYPRUS.png",ALPHA CY
-https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/309203.m3u8
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitalcy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/CAPITAL-CYPRUS.png",CAPITAL CY
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/554421.m3u8
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="pluscy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/PLUS-CYPRUS.png",PLUS CY
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/309208.m3u8
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="extracy" tvg-logo="https://scontent.fskg4-1.fna.fbcdn.net/v/t39.30808-6/387730722_813242920807737_9215589404340623137_n.png?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=84HUnG-IdDAAX96Z8jK&_nc_ht=scontent.fskg4-1.fna&oh=00_AfB7qpgd5XfjzSjw7Zc23edc5-h8Fx6CHdCpQQGRt9yWCA&oe=6532A669",ONE CY
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/309206.m3u8
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OMEGA-CYPRUS.jpg",OMEGA CY
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-g7gOZOF1a58/Vo_rwvxDrmI/AAAAAAAAKVg/ThXRpP7uzk8/s640/extralogo2.png",EXTRA
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/309170.m3u8
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2021/10/cropped-%CE%95%CE%A0%CE%A3%CE%99%CE%9B%CE%9F%CE%9D-%CE%A4%CE%97%CE%9B%CE%95%CE%9F%CE%A1%CE%91%CE%A3%CE%97-1-300x300.png",EPSILON
+http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/554253.m3u8
 #EXTINF:5960 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://trttv.gr/wp-content/uploads/2019/04/TRT_LOGO.png",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.trt/playlist.m3u8
 #EXTINF:7205 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://syrostv1.gr/wp-content/uploads/2021/12/site_logo-1.png",SYROS TV1
