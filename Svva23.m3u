@@ -13,7 +13,7 @@ http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/126868.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERTnews.png",ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/MEGA.png",MEGA HD
-http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/196741.m3u8
+http://esuniptvstream.com:25461/58AVXEDZK0SG27Q/FUZPXD5RFTRJ9BZ/100185
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ALPHA.png",ALPHA HD
 http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/16802.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ANT1.png",ANT1 HD
@@ -21,7 +21,7 @@ http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/ant
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/maktvHD.png",MAK TV HD
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
 #EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/STAR.png",STAR HD
-http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/16797.m3u8
+http://esuniptvstream.com:25461/58AVXEDZK0SG27Q/FUZPXD5RFTRJ9BZ/100191
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/SKAI.png",SKAI HD
 http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/126881.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OPEN.png",OPEN HD
@@ -58,20 +58,6 @@ https://cdn.nclr.eu/hls/SkaiSD_src.m3u8
 https://cdn.nclr.eu/hls/StarSD_src.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Open-Beyond.png",OPEN ΒΕΥΟΝD
 https://cdn.nclr.eu/hls/EpsilonSD_src.m3u8
-#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ALPHA.png",ALPHA 
-http://176.65.146.177:8045/play/a06n
-#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ANT1GR.png",ANT1 
-http://176.65.146.177:8045/play/a06p
-#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/maktv.png",MAKTV
-http://176.65.146.177:8045/play/a06t
-#EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Σχέδιο-χωρίς-τίτλο-7.png",MEGA 
-http://176.65.146.177:8045/play/a06s
-#EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Skai.png",SKAI
-http://176.65.146.177:8045/play/a06o
-#EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Star-Channel.png",STAR
-http://176.65.146.177:8045/play/a06r
-#EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/Open-Beyond.png",OPEN ΒΕΥΟΝD
-http://176.65.146.177:8045/play/a06q
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="rise" tvg-logo="https://www.rise.gr/wp-content/themes/risetv-1/images/rise-tv-logo-x2.png",RISE
 http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/554257.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="EuroNews" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/EURONEWS.png",euronews.
@@ -85,7 +71,7 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/maina
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTSports4.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/ERTSPORTS4.png",ERT SPORTS 4
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/playlist.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurosport_HD_since_2015.svg/2560px-Eurosport_HD_since_2015.svg.png",EUROSPORT 1 HD
-http://4kiptv.vip:25461/live/beinhevc/0hP7aDirD3/116213.m3u8
+http://esuniptvstream.com:25461/live/58AVXEDZK0SG27Q/FUZPXD5RFTRJ9BZ/116213.ts
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Eurosport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eurosport_2_HD_Logo_2015.svg/2560px-Eurosport_2_HD_Logo_2015.svg.png",EUROSPORT 2 HD
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/64967.ts
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="cytavisionsports1" tvg-logo="https://primetel.com.cy/portal-img/channel_logo/1/10960-cytavision-sports-logo-final-new-cytavision-sports-1-hd.png",CytaVision1HD
@@ -103,7 +89,7 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/130088.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cablenet-sports-lite-1-1781.png",CablenetSports1HD
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/130089.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://www.cosmotetv.gr/portal/documents/148154061/148182540/129995055/ff6704c5-b15b-7afd-2273-24474ed240b0?version=1.0&t=1680276330132.png",CosmoteSports4K
-http://alibaabahateyou7.ddns.net:80/live/bHDRr8jmZE86400/VzqyrXZ9R8/319217.m3u8
+http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/319217.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/169420615262328513-1024x266.png",MotorVision
 http://83449-banner.cloud-ott.me:80/live/6cee09a5c8/c5dd6b4882ec/554397.m3u8
 #EXTINF:0 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="madtv"  tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/MAD.png",MAD TV
@@ -116,8 +102,8 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/17388.m3u8
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/28235.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg",MTV HITS
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/7317.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://www.cosmotetv.gr/portal/documents/148154061/148163657/147232720/3efb2c4f-d124-8c22-b26d-e3d5443e703b?version=1.0&t=1680276188525.png",MEZZOlive
-http://vo01.mohdtv.com:8880/live/ALLChannels487E48E5D049/10778471/31212.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="[GR] Mezzo" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/mezzoes/logos/3p-logo._CB588274176_.png",MEZZOlive
+http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/137539.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-12.jpg",ERT WORLD HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="sat" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-6.jpg",ALPHA SAT
