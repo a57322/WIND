@@ -31,7 +31,9 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="atticatv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ATTICA.png",ATTICA TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive/chunks.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/One-Channel.png",ONE Channel
-https://til.pp.ua:3391/live/channeln9live.m3u8
+http://alibaabahateyou7.ddns.net:80/live/gscQPPyD/xg8xIiBAyG/96718.m3u8
+#EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/One-Channel.png",ONE HD
+https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTNews2gr" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/ERTNEWS2.png",ERT NEWS 2HD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news2/ert_news2_main/mainabr/ert_news2_main/main_1080/chunks_dvr.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ERTNews3.gr" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews3-logo-800x300.png?m=resize&w=440&h=160.png",ERT NEWS 3HD
