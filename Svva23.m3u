@@ -133,6 +133,8 @@ http://tr.redatvgold.com:80/live/Ronald/Ronald1/555670.m3u8
 http://4connect.link:80/live/56nuMe751i/LAdoISDXii/68441.ts
 #EXTINF:-1 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ΝΑΥΤΕΜΠΟΡΙΚΗ.png",NAFTEMPORIKΙ TV
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="tosoisoutv" tvg-logo="https://upload.wikimedia.org/wikipedia/el/4/4c/Tosoisoulogo.png",TO SOI SOU
+http://uhd3.one:80/live/Richard/Richard123/1384894.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg",CNBC
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/9028.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="BulgariaOnAir.bg" tvg-logo="https://i.imgur.com/2ASwXZZ.png",BulgariaOnAir
