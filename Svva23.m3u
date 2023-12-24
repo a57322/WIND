@@ -27,6 +27,10 @@ http://4s8itmiv0o.ddns.net:80/live/ngna0TsYdt/7n7FVG3nCa/16797.ts
 http://vo01.mohdtv.com:8880/live/vofm5970/6789412/52128.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OPEN.png",OPEN HD
 http://esuniptvstream.com:25461/live/02020973244179/5ERczvZzPmHofaO/100184.m3u8
+#EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/ΣΕ-HD-2.jpg",EPSILON HD
+https://cloudflarestream.com/19466602f3b41a1c908e406318a5e332/manifest/video.m3u8
+#EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://www.megatv.com/wp-content/themes/whsk_newmegatv/common/imgs/live.gif",MEGA play XMAS
+https://streamcdnh10-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/chunklist_b3710976.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/action24.png",ACTION 24 HD
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="atticatv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ATTICA.png",ATTICA TV
