@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://github.com/GreekTVApp/epg-greece-cyprus/releases/download/EPG/epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/a57322/greek-epg/main/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/a57322/greek-epg/main/epg.xml"
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ERT1.png",ERT1 HD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ERT2.png",ERT2 HD
