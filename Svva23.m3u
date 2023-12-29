@@ -76,11 +76,11 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/28235.m3u8
 #EXTINF:24 group-title="ΜΟΥΣΙΚΑ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg",MTV HITS
 http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/7317.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΑ" tvg-name="[GR] Mezzo" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/mezzoes/logos/3p-logo._CB588274176_.png",MEZZOlive
-http://4connect.link:80/live/cmbupNFX6Z/QQjCfz8OOS/137539.m3u8
+http://kbsmarters.ddns.net:80/live/cmbupNFX6Z/QQjCfz8OOS/137539.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ertworld" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-12.jpg",ERT WORLD HD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="sat" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-6.jpg",ALPHA SAT
-http://startv365.com:80/live/t12mgxyb335/9832948789/32299.m3u8
+http://uhd3.one:80/live/Patricia/Patricia123/942248.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="sat" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-6.jpg",ALPHA SAT HD
 http://mix-dns.com:8080/live/peel0036@gmail.com/MLBbGL64sZ/496454.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="mega" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/09/Ανώνυμο-σχέδιο-7.jpg",MEGA COSMOS
@@ -185,6 +185,8 @@ http://radiostreaming.ert.gr/ert-erasport
 http://radiostreaming.ert.gr/ert-voiceofgreece
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era5radio.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/6/6b/KOSMOS.svg/200px-KOSMOS.svg.png",ERA 5 KOSMOS
 http://radiostreaming.ert.gr/ert-kosmos
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.radiochristmas.gr" tvg-logo="https://files2.app.ertflix.gr/radios/radio-christmas/radio-christmas-800x300.png",ERA Radio Christmas
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era6radio.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/e/e0/KOSMOS_JAZZ.svg/119px-KOSMOS_JAZZ.svg.png",ERA KOSMOS JAZZ
 http://radiostreaming.ert.gr/ert-webjazz
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ ΡΑΔΙΟΦΩΝΑ (ΕΡΑ)" tvg-name="ert.era7radio.gr" tvg-logo="https://cache.usercontentapp.com/logo/137867.png?format=png&enlarge=0&quality=90&width=960",ERA ZEPPELIN
