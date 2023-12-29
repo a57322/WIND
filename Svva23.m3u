@@ -123,6 +123,8 @@ http://startv365.com:80/live/t12mgxyb335/9832948789/40091.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/1JnyzHv.png",FOXnews
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="to" tvg-logo="https://upload.wikimedia.org/wikipedia/el/4/4c/Tosoisoulogo.png",ΤΟ ΣΟΙ ΣΟΥ
+http://uhd3.one:80/live/Patricia/Patricia123/1384894.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="digital.cine.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Αντίγραφο-του-Αντίγραφο-του-ΣΕ-HD.jpg",Cine Digital Promo
 https://cloudflarestream.com/a48b1c8245aa6eaf0c68af2a2c11c4d2/manifest/video.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/RIK1-CYPRUS.jpg",RIK 1
