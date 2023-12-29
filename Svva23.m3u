@@ -149,8 +149,10 @@ http://kbsmarters.ddns.net:80/live/cmbupNFX6Z/QQjCfz8OOS/18424.ts
 http://kbsmarters.ddns.net:80/live/cmbupNFX6Z/QQjCfz8OOS/18422.ts
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OMEGA-CYPRUS.jpg",OMEGA CY
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
-#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2021/10/cropped-%CE%95%CE%A0%CE%A3%CE%99%CE%9B%CE%9F%CE%9D-%CE%A4%CE%97%CE%9B%CE%95%CE%9F%CE%A1%CE%91%CE%A3%CE%97-1-300x300.png",EPSILON
-http://tr.redatvgold.com:80/live/Ronald/Ronald1/554253.m3u8
+#EXTINF:999 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="epsilon" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2021/10/cropped-%CE%95%CE%A0%CE%A3%CE%99%CE%9B%CE%9F%CE%9D-%CE%A4%CE%97%CE%9B%CE%95%CE%9F%CE%A1%CE%91%CE%A3%CE%97-1-300x300.png",EPSILON
+http://uhd3.one:80/live/Patricia/Patricia123/554253.m3u8
+#EXTINF:999 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="extra" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/4E-4.jpg",EPSILON
+http://uhd3.one:80/live/Patricia/Patricia123/554246.m3u8
 #EXTINF:5960 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-8.jpg",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/w2r.trt/playlist.m3u8
 #EXTINF:7205 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Τηλεόραση-Κυκλάδων.jpg",SYROS TV1
