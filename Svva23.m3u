@@ -137,8 +137,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 http://uhd3.one:80/live/Patricia/Patricia123/1384894.m3u8
 #EXTINF:11 group-title="ΣΙΝΕΜÁ" tvg-name="digital.cine.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Αντίγραφο-του-Αντίγραφο-του-ΣΕ-HD.jpg",Cine Digital 
 https://cloudflarestream.com/a48b1c8245aa6eaf0c68af2a2c11c4d2/manifest/video.m3u8
-#EXTINF:11 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="digital.sport.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Αντίγραφο-του-Αντίγραφο-του-ΣΕ-HD-1.jpg",Sport Digital 
-
+#EXTINF:11 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="digital.studio.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Αντίγραφο-του-Αντίγραφο-του-ΣΕ-HD-1.jpg",Sport Digital 
+https://cloudflarestream.com/bb5cf2c601bcddd21951e050fba808bck8e1d1d3300b30f8f97b6198dd5f5189d/manifest/video.m3u8
 #EXTINF:11 group-title="ΠΑΙΔΙΚΑ" tvg-name="kids.tv" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-kids-tv-800x300.png",Ertflix Kids.TV
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/playlist.m3u8
 #EXTINF:11 group-title="ΜΟΥΣΙΚΗ" tvg-name="music" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-music-tv-800x300.png",Ertflix Music.TV
