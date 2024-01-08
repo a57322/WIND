@@ -66,7 +66,7 @@ http://88.99.254.101:80/etv/index.m3u8
 #EXTINF:800 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="rise" tvg-logo="https://www.rise.gr/wp-content/themes/risetv-1/images/rise-tv-logo-x2.png",RISE
 http://mix-dns.com:8080/live/peel0036@gmail.com/MLBbGL64sZ/496436.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="EuroNews" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/EURONEWS.png",euronews.
-http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/34754.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704748883/ei/8xKcZfLKHLTS6dsPh-y3yAI/ip/109.242.75.53/id/uWIhV9gQClg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6UjPEl-8Q7g_SSYNDkekIW-HppUkkntXN0O54T9flwZKL0JHjI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPJ6ZXqpyRd76bCcL2eiQdsRbqUBkQa5-IebBHZHpJrfAiEAoBUNQyMbFQPvNZHsfdHP5aB6pv3YojJbclHjASYNHqM%3D/file/index.m3u8
 #EXTINF:24 group-title="WIND FREEVIEW" tvg-name="ertsports" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/ERTSPORTS1.png",ERT SPORTS 1
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
 #EXTINF:24 group-title="WIND FREEVIEW" tvg-name="ERTSports2.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/08/ERTSPORTS2.png",ERT SPORTS 2
