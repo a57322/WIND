@@ -61,24 +61,20 @@ http://45.12.1.14:80/live/TZHeZcG439/3LrLyb854/9028.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/460px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/460px-CGTN.svg.png",Arte
-http://royallivetv.club:80/EpTx1QTXbM87641/aKgPK6oMrk/152354
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ReutersTV.us" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Reuters-logo-emblem.png",Reuters
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="AlJazeeraChannel.qa" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly_3.png?itok=Fy7INNpu",Al jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5MondeEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1920px-Logo_TV5_Monde_-_2021.svg.png",TV5 MONDE EU
 https://ertflix.s.llnwi.net/ertlive/tv5/default/dash/TV5.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5MondeEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1920px-Logo_TV5_Monde_-_2021.svg.png",DW ENGLISH
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/DW-TV_German_Logo.png",DW
 https://ertflix.s.llnwi.net/ertlive/dw/default/dash/DW.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5MondeInfo.fr" tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png",TV5MONDEinfo
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBCAmericaEast.usr" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/BBC-America-logo.png",BBC AMERICA
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBCWorldNews.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",BBC WORLD NEWS
-http://startv365.com:80/live/t12mgxyb335/9832948789/40091.m3u8
+http://vo01.mohdtv.com:8880/voby4700/28612859/28869
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png",Abc news
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/1JnyzHv.png",FOXnews
@@ -95,32 +91,12 @@ https://cloudflarestream.com/a48b1c8245aa6eaf0c68af2a2c11c4d2/manifest/video.m3u
 https://cloudflarestream.com/bb5cf2c601bcddd21951e050fba808bck8e1d1d3300b30f8f97b6198dd5f5189d/manifest/video.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digital.epsilon.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/ΣΕ-HD-2.jpg",EPSILON HD
 https://cloudflarestream.com/19466602f3b41a1c908e406318a5e332/manifest/video.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/RIK1-CYPRUS.jpg",RIK 1
-http://royallivetv.club:80/nQgAPk0yyi/1RfxdNWczz/15064
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/RIK2-CYPRUS.jpg",RIK 2
-http://royallivetv.club:80/nQgAPk0yyi/1RfxdNWczz/15065
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/4E-3.jpg",RIK HD
-http://royallivetv.club:80/nQgAPk0yyi/1RfxdNWczz/15064
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/RIKSAT-CYPRUS.png",RIK SAT CY
 https://telmacosa.s.llnwi.net/osY/RIK/default/index.m3u8
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://www.tothemaonline.com/img/path/7ad0233e-4145-4913-a7d7-404cf47c8bf2_sifmag.jpg",SIGMA CY
 https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ANT1-CYPRUS.png",ANT1 CY
-http://royallivetv.club:80/EpTx1QTXbM87641/aKgPK6oMrk/1533
-#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ALPHA-CYPRUS.png",ALPHA CY
-http://royallivetv.club:80/EpTx1QTXbM87641/aKgPK6oMrk/29233
-#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="capitalcy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/CAPITAL-CYPRUS.png",CAPITAL CY
-http://royallivetv.club:80/EpTx1QTXbM87641/aKgPK6oMrk/18423
-#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="pluscy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/PLUS-CYPRUS.png",PLUS CY
-http://royallivetv.club:80/EpTx1QTXbM87641/aKgPK6oMrk/18424
-#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="extracy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/4E-1.jpg",ONE CY
-http://royallivetv.club:80/EpTx1QTXbM87641/aKgPK6oMrk/18422
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OMEGA-CYPRUS.jpg",OMEGA CY
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
-#EXTINF:999 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="epsilon" tvg-logo="https://upload.wikimedia.org/wikipedia/el/2/20/EPSILON_TV_logo.png",EPSILON
-http://uhd3.one:80/Patricia/Patricia123/554253
-#EXTINF:999 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="extra" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/4E-4.jpg",EXTRA
-http://uhd3.one:80/Patricia/Patricia123/554246
 #EXTINF:5960 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-8.jpg",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 #EXTINF:7205 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Τηλεόραση-Κυκλάδων.jpg",SYROS TV1
@@ -135,7 +111,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="4e" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/4E.jpg aspect-ratio="16:9",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="Thessalia" tvg-logo="https://www.thessaliatv.gr/include/images/logo-news-r.png",ThessaliaTV
+#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="Thessalia" tvg-logo="https://www.thessaliatv.gr/include/images/logo-news-r.png",THESSALIA
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="center" tvg-logo="https://centertv.gr/wp-content/uploads/2019/09/center-logo.png",CENTER
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
@@ -147,9 +123,9 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvstarfm.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ionian" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-7.jpg",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="Flash" tvg-logo="https://i.imgur.com/ERlPQ5D.png",Flash
+#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="Flash" tvg-logo="https://i.imgur.com/ERlPQ5D.png",FLASH
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
-#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="aigaiotv" tvg-logo="https://12nisospress.com/wp-content/uploads/2020/04/article.png",aigaiotv
+#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="aigaiotv" tvg-logo="https://12nisospress.com/wp-content/uploads/2020/04/article.png",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-5.jpg",DIKTYO
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
