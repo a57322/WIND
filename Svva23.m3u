@@ -12,19 +12,19 @@ https://ertflix.s.llnwi.net/ertlive/vouli/default/dash/ERT.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://blogs.e-me.edu.gr/hive-ABCenglishMRSGEORGIA/wp-content/uploads/sites/327536/2023/03/ERTnews.png",ERT NEWS
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/dash/ERT.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ALPHA.png",ALPHA HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BC:0C:1F&stream=1432017&extension=ts
+http://88.99.254.101:80/alphaHD/index.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/MEGA.png",MEGA HD
-http://vo01.mohdtv.com:8880/voby4700/28612859/31188
+http://88.99.254.101:80/megaHD/index.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ANT1.png",ANT1 HD
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/maktvHD.png",MAK TV HD
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
 #EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/STAR.png",STAR HD
-http://gqdtaxz.mexamo.xyz:80/7026491514/4383453063/118272
+http://88.99.254.101:80/starHD/index.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/SKAI.png",SKAI HD
-http://vo01.mohdtv.com:8880/voby4700/28612859/52128
+http://88.99.254.101:80/skaiHD/index.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OPEN.png",OPEN HD
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+http://88.99.254.101:80/etvHD/index.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="action24" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/action24.png",ACTION 24 HD
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="atticatv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ATTICA.png",ATTICA TV
