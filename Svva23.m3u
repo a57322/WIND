@@ -67,13 +67,13 @@ https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5MondeEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1920px-Logo_TV5_Monde_-_2021.svg.png",TV5 MONDE EU
 https://ertflix.s.llnwi.net/ertlive/tv5/default/dash/TV5.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/DW-TV_German_Logo.png",DW
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/DW-TV_German_Logo.png",DW
 https://ertflix.s.llnwi.net/ertlive/dw/default/dash/DW.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="TV5MondeInfo.fr" tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png",TV5MONDEinfo
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBCWorldNews.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",BBC WORLD NEWS
+#EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",BBC WORLD NEWS
 http://vo01.mohdtv.com:8880/voby4700/28612859/28869
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png",Abc news
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -99,8 +99,12 @@ http://213.7.193.54:4000/play/a00b
 https://telmacosa.s.llnwi.net/osY/RIK/default/index.m3u8
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://www.tothemaonline.com/img/path/7ad0233e-4145-4913-a7d7-404cf47c8bf2_sifmag.jpg",SIGMA CY
 https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ALPHA-CYPRUS.png",ALPHA CY
+http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/131315
 #EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/OMEGA-CYPRUS.jpg",OMEGA CY
 http://213.7.193.54:4000/play/a003
+#EXTINF:999 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ANT1-CYPRUS.png",ANT1 CY
+http://213.7.193.54:4000/play/a001
 #EXTINF:5960 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-8.jpg",TRT TV
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 #EXTINF:7205 group-title="HELLASNET ΔΙΚΤΥΟ" tvg-name="syrostv1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Τηλεόραση-Κυκλάδων.jpg",SYROS TV1
@@ -125,6 +129,8 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="starbe" tvg-logo="https://www.startvfm.gr/wp-content/uploads/2017/10/star-voreiou-ellados.png",STAR Β.Ε.
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvstarfm.m3u8
+#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="starbe" tvg-logo="https://typologies.gr/wp-content/uploads/2023/04/BLUE-SKY-LOGO-NEW-1920x1080-1.png",BLUESKY
+https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ionian" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-7.jpg",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="Flash" tvg-logo="https://i.imgur.com/ERlPQ5D.png",FLASH
