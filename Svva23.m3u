@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/a57322/greek-epg/main/epg.xml"
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ERT1.png",ERT1 HD
-https://ertflix.s.llnwi.net/ertlive/ert1/default/dash/ERT.m3u8
+http://88.99.254.101:80/ert1HD/mono.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ERT2.png",ERT2 HD
 https://ertflix.s.llnwi.net/ertlive/ert2/default/dash/ERT.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ERT3.png",ERT3 HD
@@ -16,7 +16,7 @@ http://88.99.254.101:80/alphaHD/mono.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/MEGA.png",MEGA HD
 http://88.99.254.101:80/megaHD/mono.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/ANT1.png",ANT1 HD
-https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
+http://88.99.254.101:80/ant1HD/mono.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/maktvHD.png",MAK TV HD
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
 #EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/STAR.png",STAR HD
