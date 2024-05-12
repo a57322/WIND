@@ -92,7 +92,7 @@ https://cloudflarestream.com/a48b1c8245aa6eaf0c68af2a2c11c4d2/manifest/video.m3u
 #EXTINF:11 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="digital.studio.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Αντίγραφο-του-Αντίγραφο-του-ΣΕ-HD-1.jpg",Sport Digital 
 https://cloudflarestream.com/bb5cf2c601bcddd21951e050fba808bck8e1d1d3300b30f8f97b6198dd5f5189d/manifest/video.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digital.epsilon.gr" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/ΣΕ-HD-2.jpg",EPSILON HD
-https://cloudflarestream.com/19466602f3b41a1c908e406318a5e332/manifest/video.m3u8
+https://ssh101-fl.bozztv.com/ssh101/epsilon/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/RIK1-CYPRUS.jpg",RIK 1
 http://213.7.193.54:4000/play/a00a
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2 tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/08/RIK2-CYPRUS.jpg",RIK 2
