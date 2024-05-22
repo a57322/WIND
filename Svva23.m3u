@@ -135,6 +135,10 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="flashtv" tvg-logo="https://12nisospress.com/wp-content/uploads/2020/04/article.png",AIGAIO TV
 https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="extra" tvg-logo="https://www.extra3.tv/wp-content/uploads/2017/02/extra_logo.png",EXTRA
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BC:0C:1F&stream=554246&extension=ts
+#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="epsilon" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/2/20/EPSILON_TV_logo.png/592px-EPSILON_TV_logo.png",EPSILON ΑΤΤΙΚΗΣ
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BC:0C:1F&stream=555689&extension=ts
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diktyotv" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-5.jpg",DIKTYO
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="enachannel" tvg-logo="https://blogs.e-me.edu.gr/hive-neo-epsilontv/wp-content/uploads/sites/319724/2023/12/Ανώνυμο-σχέδιο-6.jpg",ENA CHANNEL
